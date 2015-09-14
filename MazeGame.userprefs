@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game Assets\Scripts\Buttons\SinglePlayer.cs">
+    <Files>
+      <File FileName="Assets\Game Assets\Scripts\Buttons\SinglePlayer.cs" Line="14" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Maze Generation\WallColors.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Core Game Scripts\Initialization.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Maze Generation\Imperfect\ImperfectConnectVerts.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Maze Generation\MergeMesh.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Core Game Scripts\Randomizer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Shadows\Shadow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\GUI\menuController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\GUI\menuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Debugging\CameraDebugControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Debugging\DebugGetVerts.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Maze Generation\Perfect\ConnectVerts.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Maze Generation\Perfect\MazeGeneration.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Maze Generation\PowerUps.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Player\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Assets\Scripts\Maze Generation\Imperfect\ImperfectMazeGen.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

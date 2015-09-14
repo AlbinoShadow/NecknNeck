@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1c8cefa41c5f5945a922293f9fd04a4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {fileID: 100000, guid: afea71ddc37063e4b86912f5acf9b1c6, type: 2}
+  - path: {fileID: 100000, guid: 732d20d29464e564caf5769495893164, type: 2}
+  - startPoint: {fileID: 100000, guid: e4845e9f31796514798cfea5d86fc33d, type: 2}
+  - endPoint: {fileID: 100000, guid: 046f368e52dd0454d90c31fcd58a83be, type: 2}
+  - Walls: {instanceID: 0}
+  - Paths: {instanceID: 0}
+  executionOrder: -99
+  icon: {instanceID: 0}
+  userData: 
